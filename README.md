@@ -47,17 +47,10 @@ The typical process for working on this project includes:
 - Generate key summary statistics.
 
 ## Example Commands
-Run the analysis scripts:
-```shell
-python scripts/data_summary.py
-python scripts/visualize_data.py
+TBD
 ```
 
 Launch Jupyter notebooks:
 ```shell
 jupyter notebook
 ```
-
----
-
-This structure ensures clarity and ease of use for collaborators. Feel free to modify it based on your specific dataset and analysis needs. Does this align with what you're envisioning? Let me know if you'd like any refinements!

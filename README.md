@@ -103,8 +103,8 @@ plt.show()
 ## About the project output
 
 This notebook serves as an initial test of the Jupyter environment setup and demonstrates the ability to run Python and Markdown cells successfully. The output shown is a pie chart visualizing supplier contributions to a Component Bill of Materials (CBOM) — a relevant example in supply chain analytics.
-
 The chart helps identify how much each supplier contributes to the total component count, giving stakeholders a quick understanding of sourcing distribution. This kind of simple visualization lays the groundwork for deeper analysis later in the EDA process.
+
 ---
 
 ```
